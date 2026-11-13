@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Secrets et données locales
+.env
+*.pem
+*.key
+pgdata/
+mongodata/
